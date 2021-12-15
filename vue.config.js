@@ -3,6 +3,6 @@ module.exports = {
     'vuetify'
   ],
   publicPath: '/music/',
-  outputDir: 'dist',
+  outputDir: 'docs',
   assetsDir: 'static'
 }
