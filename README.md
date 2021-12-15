@@ -1,4 +1,5 @@
 # cloudmusic
+使用Vuetify框架，界面模仿QQ音乐安卓端APP，api调用网易云的接口
 
 ## Project setup
 ```
