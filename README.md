@@ -1,5 +1,5 @@
 # cloudmusic
-![](https://img.shields.io/badge/API-NeteaseCloudMusicApi-brightgreen)
+[![ffff](https://img.shields.io/badge/API-NeteaseCloudMusicApi-brightgreen)](https://img.shields.io/badge/API-NeteaseCloudMusicApi-brightgreen)
 使用Vuetify框架，界面模仿QQ音乐安卓端APP，api调用网易云的接口
 
 ## Project setup
